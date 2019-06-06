@@ -2,7 +2,7 @@
 
 @section('content')
 
-
+<h2>sdvhsdhjsdvhsdkj</h2>
 
     <?php $banner_bg = asset('asset/img/banner-bg.jpg'); ?>
     <div class="banner row no-margin" style="background-image: url('{{$banner_bg}}');">
